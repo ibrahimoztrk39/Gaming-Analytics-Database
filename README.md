@@ -1,4 +1,4 @@
-#Gaming Analytics Database
+# Gaming Analytics Database
 
 ## 📌 Overview
 
